@@ -1,0 +1,64 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='980' height='560' viewBox='0 0 980 560'>
+<rect x='0' y='0' width='100%' height='100%' fill='#fcfcfd' />
+<text x='490' y='28' text-anchor='middle' font-family='Arial' font-size='20' font-weight='bold' fill='#1f2937'>Distribution of Unit_Price</text>
+<line x1='70' y1='490' x2='950' y2='490' stroke='#374151' stroke-width='1.5' />
+<line x1='70' y1='490' x2='70' y2='50' stroke='#374151' stroke-width='1.5' />
+<line x1='64' y1='490.00' x2='70' y2='490.00' stroke='#4b5563' stroke-width='1' />
+<text x='60' y='494.00' text-anchor='end' font-family='Arial' font-size='12' fill='#4b5563'>0</text>
+<line x1='70' y1='490.00' x2='950' y2='490.00' stroke='#e5e7eb' stroke-width='1' />
+<line x1='64' y1='402.00' x2='70' y2='402.00' stroke='#4b5563' stroke-width='1' />
+<text x='60' y='406.00' text-anchor='end' font-family='Arial' font-size='12' fill='#4b5563'>17320</text>
+<line x1='70' y1='402.00' x2='950' y2='402.00' stroke='#e5e7eb' stroke-width='1' />
+<line x1='64' y1='314.00' x2='70' y2='314.00' stroke='#4b5563' stroke-width='1' />
+<text x='60' y='318.00' text-anchor='end' font-family='Arial' font-size='12' fill='#4b5563'>34640</text>
+<line x1='70' y1='314.00' x2='950' y2='314.00' stroke='#e5e7eb' stroke-width='1' />
+<line x1='64' y1='226.00' x2='70' y2='226.00' stroke='#4b5563' stroke-width='1' />
+<text x='60' y='230.00' text-anchor='end' font-family='Arial' font-size='12' fill='#4b5563'>51960</text>
+<line x1='70' y1='226.00' x2='950' y2='226.00' stroke='#e5e7eb' stroke-width='1' />
+<line x1='64' y1='138.00' x2='70' y2='138.00' stroke='#4b5563' stroke-width='1' />
+<text x='60' y='142.00' text-anchor='end' font-family='Arial' font-size='12' fill='#4b5563'>69280</text>
+<line x1='70' y1='138.00' x2='950' y2='138.00' stroke='#e5e7eb' stroke-width='1' />
+<line x1='64' y1='50.00' x2='70' y2='50.00' stroke='#4b5563' stroke-width='1' />
+<text x='60' y='54.00' text-anchor='end' font-family='Arial' font-size='12' fill='#4b5563'>86600</text>
+<line x1='70' y1='50.00' x2='950' y2='50.00' stroke='#e5e7eb' stroke-width='1' />
+<line x1='70.00' y1='490' x2='70.00' y2='496' stroke='#4b5563' stroke-width='1' />
+<text x='70.00' y='514' text-anchor='middle' font-family='Arial' font-size='12' fill='#4b5563'>2</text>
+<line x1='216.67' y1='490' x2='216.67' y2='496' stroke='#4b5563' stroke-width='1' />
+<text x='216.67' y='514' text-anchor='middle' font-family='Arial' font-size='12' fill='#4b5563'>598</text>
+<line x1='363.33' y1='490' x2='363.33' y2='496' stroke='#4b5563' stroke-width='1' />
+<text x='363.33' y='514' text-anchor='middle' font-family='Arial' font-size='12' fill='#4b5563'>1194</text>
+<line x1='510.00' y1='490' x2='510.00' y2='496' stroke='#4b5563' stroke-width='1' />
+<text x='510.00' y='514' text-anchor='middle' font-family='Arial' font-size='12' fill='#4b5563'>1790</text>
+<line x1='656.67' y1='490' x2='656.67' y2='496' stroke='#4b5563' stroke-width='1' />
+<text x='656.67' y='514' text-anchor='middle' font-family='Arial' font-size='12' fill='#4b5563'>2386</text>
+<line x1='803.33' y1='490' x2='803.33' y2='496' stroke='#4b5563' stroke-width='1' />
+<text x='803.33' y='514' text-anchor='middle' font-family='Arial' font-size='12' fill='#4b5563'>2982</text>
+<line x1='950.00' y1='490' x2='950.00' y2='496' stroke='#4b5563' stroke-width='1' />
+<text x='950.00' y='514' text-anchor='middle' font-family='Arial' font-size='12' fill='#4b5563'>3578</text>
+<rect x='71.00' y='50.00' width='34.67' height='440.00' fill='#2563eb' opacity='0.85' />
+<rect x='107.67' y='487.70' width='34.67' height='2.30' fill='#2563eb' opacity='0.85' />
+<rect x='144.33' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='181.00' y='472.33' width='34.67' height='17.67' fill='#2563eb' opacity='0.85' />
+<rect x='217.67' y='485.11' width='34.67' height='4.89' fill='#2563eb' opacity='0.85' />
+<rect x='254.33' y='477.18' width='34.67' height='12.82' fill='#2563eb' opacity='0.85' />
+<rect x='291.00' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='327.67' y='479.05' width='34.67' height='10.95' fill='#2563eb' opacity='0.85' />
+<rect x='364.33' y='486.43' width='34.67' height='3.57' fill='#2563eb' opacity='0.85' />
+<rect x='401.00' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='437.67' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='474.33' y='481.70' width='34.67' height='8.30' fill='#2563eb' opacity='0.85' />
+<rect x='511.00' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='547.67' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='584.33' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='621.00' y='448.44' width='34.67' height='41.56' fill='#2563eb' opacity='0.85' />
+<rect x='657.67' y='477.25' width='34.67' height='12.75' fill='#2563eb' opacity='0.85' />
+<rect x='694.33' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='731.00' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='767.67' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='804.33' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='841.00' y='490.00' width='34.67' height='0.00' fill='#2563eb' opacity='0.85' />
+<rect x='877.67' y='487.22' width='34.67' height='2.78' fill='#2563eb' opacity='0.85' />
+<rect x='914.33' y='473.28' width='34.67' height='16.72' fill='#2563eb' opacity='0.85' />
+<text x='490' y='545' text-anchor='middle' font-family='Arial' font-size='13' fill='#374151'>Unit_Price</text>
+<text x='22' y='270.00' text-anchor='middle' font-family='Arial' font-size='13' fill='#374151' transform='rotate(-90 22 270.00)'>Frequency</text>
+</svg>
